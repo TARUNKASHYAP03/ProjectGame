@@ -21,7 +21,7 @@ body {
 }
 
 .red {
-    background-color: red;
+    background-color: rgb(210, 71, 71);
 }
 
 .green {
@@ -37,7 +37,7 @@ body {
 }
 
 .flash {
-    background-color: orangered;
+    background-color: red;
 }
 
 .gameflash {
